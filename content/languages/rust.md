@@ -3,11 +3,19 @@ title: Rust
 weight: 4
 ---
 
+# Overview
+
 <table>
-<tr><td>Github</td><td>https://github.com/erickt/rust-zmq</td></tr>
-<tr><td>Crate</td><td>https://docs.rs/crate/zmq</td></tr>
-<tr><td>Examples</td><td>https://github.com/erickt/rust-zmq/tree/master/examples</td></tr>
+  <tr><th>Crate</th><th>Repository</th><th>Examples</th><th>Description</th></tr>
+  <tr>
+    <td>https://docs.rs/crate/zmq</td>
+    <td>https://github.com/erickt/rust-zmq</td>
+    <td>https://github.com/erickt/rust-zmq/tree/master/examples</td>
+    <td></td>
+  </tr>
 </table>
+
+# zmq crate
 
 ## Installation
 
