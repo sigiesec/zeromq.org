@@ -91,7 +91,13 @@ weight: 4
     <td>custom</td>
     <td></td>
   </tr>
-  
+  <tr>
+    <td></td>
+    <td>https://github.com/petehayes102/rust-czmq</td>
+    <td></td>
+    <td>libzmq</td>
+    <td></td>
+  </tr>  
 </table>
 
 # zmq crate
