@@ -53,6 +53,7 @@ weight: 4
     <td>https://crates.io/crates/libzmq</td>
     <td></td>
     <td></td>
+    <td>libzmq</td>
     <td></td>
   </tr>
   <tr>
