@@ -38,13 +38,6 @@ weight: 4
     <td></td>
   </tr>
   <tr>
-    <td>https://crates.io/crates/sawtooth-zmq</td>
-    <td></td>
-    <td></td>
-    <td>libzmq</td>
-    <td>Fork of zmq crate?</td>
-  </tr>
-  <tr>
     <td>https://crates.io/crates/libzmq</td>
     <td>https://github.com/jean-airoldie/libzmq-rs</td>
     <td></td>
@@ -57,13 +50,6 @@ weight: 4
     <td></td>
     <td>libzmq</td>
     <td>Low-level layer of libzmq crate</td>
-  </tr>
-  <tr>
-    <td>https://crates.io/crates/tmq-zmq</td>
-    <td></td>
-    <td></td>
-    <td>libzmq</td>
-    <td>Fork of zmq crate??</td>
   </tr>
 </table>
 
@@ -108,6 +94,25 @@ weight: 4
   </tr>  
 </table>
 
+## Missing repository
+
+<table>
+  <tr><th>Crate</th><th>Repository</th><th>Examples</th><th>ZMTP engine</th><th>Description</th></tr>
+  <tr>
+    <td>https://crates.io/crates/sawtooth-zmq</td>
+    <td></td>
+    <td></td>
+    <td>libzmq</td>
+    <td>Fork of zmq crate?</td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/tmq-zmq</td>
+    <td></td>
+    <td></td>
+    <td>libzmq</td>
+    <td>Fork of zmq crate??</td>
+  </tr>
+</table>
 
 # zmq crate
 
