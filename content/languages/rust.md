@@ -8,11 +8,78 @@ weight: 4
 <table>
   <tr><th>Crate</th><th>Repository</th><th>Examples</th><th>Description</th></tr>
   <tr>
-    <td>https://docs.rs/crate/zmq</td>
+    <td>https://docs.rs/crate/zmq == https://crates.io/crates/zmq?</td>
     <td>https://github.com/erickt/rust-zmq</td>
     <td>https://github.com/erickt/rust-zmq/tree/master/examples</td>
     <td></td>
   </tr>
+  <tr>
+    <td>https://crates.io/crates/zeromq</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/futures-zmq</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/tokio-zmq</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/tmq</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/sawtooth-zmq</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/libzmq</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/libzmq-sys</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/zmq-pw</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/tmq-zmq</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/zmq-rs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>https://crates.io/crates/rustyq</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
 </table>
 
 # zmq crate
