@@ -44,13 +44,6 @@ weight: 4
     <td>libzmq</td>
     <td></td>
   </tr>
-  <tr>
-    <td>https://crates.io/crates/libzmq-sys</td>
-    <td>https://github.com/jean-airoldie/libzmq-rs</td>
-    <td></td>
-    <td>libzmq</td>
-    <td>Low-level layer of libzmq crate</td>
-  </tr>
 </table>
 
 ## Historic (last updated 2017 or earlier)
